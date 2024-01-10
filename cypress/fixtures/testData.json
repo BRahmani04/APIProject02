@@ -1,0 +1,20 @@
+{
+    "postRequestBody": {
+        "firstName": "Bali",
+        "lastName": "Rahmani",
+        "email": "baliy@gmail.com",
+        "dob": "2023-12-04"
+    },
+    "putRequestBody": {
+        "firstName": "updateBali",
+        "lastName": "updaterahman",
+        "email": "updatebalilly@gmail.com",
+        "dob": "2021-03-01"
+    },
+    "patchRequestBody": {
+            "firstName": "updateBali",
+            "lastName": "updaterahman",
+            "email": "UpdateEmail@gmail.com",
+            "dob": "2002-03-01"
+    }
+}
